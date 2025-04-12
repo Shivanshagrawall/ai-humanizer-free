@@ -36,11 +36,11 @@ const Index = () => {
               <div className="text-center max-w-2xl mx-auto mb-12">
                 <h2 className="text-3xl font-bold mb-4">
                   <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                    Transform Your Text
+                  Humanize Your AI Text
                   </span>
                 </h2>
                 <p className="text-gray-600">
-                  Paste your AI-generated text below and transform it into natural, human-like content
+                Paste your AI-generated content below and use our AI Humanizer Free to instantly make it sound human and natural.
                 </p>
               </div>
               
@@ -63,26 +63,19 @@ const Index = () => {
               </h2>
               <div className="prose prose-lg max-w-none">
                 <p>
-                  WarmText Transformer is designed to solve a common problem in today's AI-driven content creation landscape: 
-                  making AI-generated text sound more human and engaging.
+                WarmText is a 100% Free AI Humanizer tool built to solve a growing challenge: turning AI-generated content into human-sounding writing.
                 </p>
-                
+                <br />
                 <p>
-                  As AI tools become increasingly prevalent in content creation, there's a growing need to ensure that the 
-                  final output maintains a natural, conversational tone that resonates with human readers. Our transformer 
-                  bridges this gap by applying advanced linguistic processing to AI-generated content.
+                With the rise of AI content generators, our free AI Humanizer helps bridge the gap between machine output and natural human expression.
                 </p>
-                
+                <br />
                 <p>
-                  Powered by Gemini 2.0 Flash API, WarmText uses sophisticated algorithms to identify patterns typical 
-                  of AI-generated text and transforms them into more natural language patterns without altering the 
-                  original meaning or adding extraneous content.
+                Powered by advanced AI technology, WarmText detects robotic phrasing in AI content and humanizes it instantly—without changing the original intent.
                 </p>
-                
+                <br />
                 <p className="font-medium">
-                  Whether you're a content creator, marketer, educator, or just someone looking to improve AI-generated 
-                  drafts, WarmText helps you create content that maintains both the efficiency of AI and the warmth of 
-                  human writing.
+                Whether you're a creator, marketer, blogger, or student, WarmText’s AI Humanizer Free lets you enjoy the speed of AI with the clarity of human tone.
                 </p>
               </div>
             </div>

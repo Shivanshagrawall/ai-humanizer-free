@@ -19,8 +19,7 @@ const HeroSection = () => {
             </span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 animate-fadein [animation-delay:200ms]">
-            Transform AI-generated text into natural, engaging, and human-like content
-            without changing the original meaning. Powered by Gemini 2.0 Flash.
+          Use our AI Humanizer Free tool to instantly convert robotic AI content into human-like, engaging text without changing the meaning. Powered by advanced AI.
           </p>
           <div className="flex justify-center gap-4 animate-fadein [animation-delay:300ms]">
             <Button 

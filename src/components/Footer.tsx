@@ -51,7 +51,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-4 border-t border-gray-100 text-center text-sm text-gray-500">
-          <p>© 2025 WarmText Transformer. All rights reserved.</p>
+          <p>© 2025 WarmText – The Free AI Humanizer Tool. All rights reserved.</p>
         </div>
       </div>
     </footer>

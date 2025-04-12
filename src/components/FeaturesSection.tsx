@@ -8,22 +8,22 @@ const FeaturesSection = () => {
     {
       icon: ScanTextIcon,
       title: "Content Preservation",
-      description: "Maintains the original meaning and structure of your text while making it sound more human."
+      description: "Preserves the original meaning and intent while making AI content sound human and readable."
     },
     {
       icon: PencilLineIcon,
       title: "Natural Language",
-      description: "Transforms robotic AI text into warm, engaging, and natural-sounding content."
+      description: "Humanizes robotic AI text into conversational and natural language."
     },
     {
       icon: ZapIcon,
       title: "Lightning Fast",
-      description: "Powered by Gemini 2.0 Flash API for near-instantaneous text transformations."
+      description: "Powered by cutting-edge AI for instant, real-time humanization of your text."
     },
     {
       icon: RefreshCwIcon,
       title: "Unlimited Transformations",
-      description: "Transform as many texts as you need, with support for up to 1000 words per transformation."
+      description: "Use the AI Humanizer Free tool with no limits – up to 1000 words per session and no signup required."
     },
     {
       icon: ShieldCheckIcon,
@@ -47,7 +47,7 @@ const FeaturesSection = () => {
             </span>
           </h2>
           <p className="text-gray-600">
-            Our text transformer offers advanced capabilities to make AI-generated content sound more natural and engaging
+          Our AI Humanizer Free tool uses powerful AI to convert robotic content into natural, flowing, human-like text.
           </p>
         </div>
 
